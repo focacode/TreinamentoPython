@@ -1,2 +1,2 @@
 # TreinamentoPython
- aprendizado de python
+ Aprendizado linguagem python
